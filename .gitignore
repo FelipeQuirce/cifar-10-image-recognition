@@ -1,0 +1,5 @@
+preprocess*
+cifar*
+__pycache__/
+.ipynb_checkpoints/
+.floydignore
